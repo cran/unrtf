@@ -1,12 +1,13 @@
-108842133ea1556c491e59aca285dc12 *DESCRIPTION
+ba20014eed7fd7f9301d34a7599c1845 *DESCRIPTION
 986a89461d27197890126919f888d9a9 *NAMESPACE
+9a1d1c742648ab9da602274476681bd9 *NEWS
 99ccea6833025b4ef53bd28fafeb6a85 *R/unrtf.R
 6b80231f490362d20d34f5c963944aac *man/unrtf.Rd
 a90233dd8dde7e82f55228aefb0db33e *src/Makevars
 4abcf80d8b71d6964e45b9dfeb86487b *src/libunrtf/attr.c
 053b79fd13316545016814b8ca5a66e9 *src/libunrtf/attr.h
 8c064c2759cc8347826a462e48bd591f *src/libunrtf/config.h
-313a7175fe419526921a298969f326b1 *src/libunrtf/convert.c
+13afc950c3c017faadaebd9994ace34b *src/libunrtf/convert.c
 6b29df397b6e9110b4d49d04bdf449a1 *src/libunrtf/convert.h
 076f0bed98107f15bd9ebbcefb506911 *src/libunrtf/defs.h
 987747118ba72c0da58e663dc93fc8d5 *src/libunrtf/error.c
