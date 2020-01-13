@@ -1,6 +1,6 @@
-15f75e60a4b4259228451e2968450165 *DESCRIPTION
+4e33660bea1c93a267f4c7979e3fc121 *DESCRIPTION
 986a89461d27197890126919f888d9a9 *NAMESPACE
-ce2bbe3500ee7121b22f5f9df7bc2e2d *NEWS
+4f97861d75178836585f8c4728032a02 *NEWS
 4001b3b715513277b1adee632164ce4b *R/unrtf.R
 6b80231f490362d20d34f5c963944aac *man/unrtf.Rd
 6e3e33fe176299ebfc41d9c5994b7858 *src/Makevars
@@ -18,7 +18,7 @@ cb8782057d53f3d348b88798d62d1c3a *src/libunrtf/hash.h
 bfaeed582958a6a9cad80125ca27e755 *src/libunrtf/main.h
 b8f3f869693b5ccfe963e6f8d018a818 *src/libunrtf/malloc.c
 3248115a20e624773fb07bf0975301cc *src/libunrtf/malloc.h
-c90f948dfcf310ec033bb04d1d3b9cf7 *src/libunrtf/my_iconv.c
+df1d9d2167924355124b951ed3b56e38 *src/libunrtf/my_iconv.c
 f9dd6e25b2664c725771cbf071716144 *src/libunrtf/my_iconv.h
 712a882d5155e4e3d5ca91f95837102e *src/libunrtf/output.c
 4fb29054976b143c32ba90dfa8d0d0e0 *src/libunrtf/output.h
