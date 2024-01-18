@@ -1,11 +1,12 @@
-36db11c70c1330524a6862617e5602d6 *DESCRIPTION
+34a466faca56f20b560f8a4d04ff0f3d *DESCRIPTION
 986a89461d27197890126919f888d9a9 *NAMESPACE
-cfc585c9da2fa95b7617dba6cd4b8545 *NEWS
+1582fdc8dfcd01866823ff848d0e78e1 *NEWS
 4001b3b715513277b1adee632164ce4b *R/unrtf.R
 3fd491a2394e901db0d23fe2d30960c4 *man/figures/logo.png
 6b80231f490362d20d34f5c963944aac *man/unrtf.Rd
-18f07fcb1f184fde3af0d7fd9908e988 *src/Makevars
+505ce4daf424a145ff553c28ee108db2 *src/Makevars
 4ebafb8c513e5b1d28c91d872eb866ae *src/Makevars.win
+99ea2361fe06bb8cd6ca776b5d9f7776 *src/install.libs.R
 71c2f50895cd184085c9d5fe3a486d17 *src/libunrtf/attr.c
 88ae14cd98b091c31af2f69952561476 *src/libunrtf/attr.h
 8c064c2759cc8347826a462e48bd591f *src/libunrtf/config.h
@@ -36,7 +37,6 @@ f8c62ad2bf70f59e5b6193ff912c143c *src/libunrtf/unicode.h
 2d987a5c81f7a6718a9d3a6cc023c302 *src/libunrtf/util.h
 f0ac8162838d38a771c57eca1cd110a4 *src/libunrtf/word.c
 070faaafa40d44d265fe03fcb54c3ed9 *src/libunrtf/word.h
-b0a10a2b54d2731e0d0c56dedcb3b640 *src/register.c
 a7c5750cf97854fcc386c0d09a4936d1 *src/share/SYMBOL.charmap
 2c3641fe60ca8518e5fd2e72ac3a2404 *src/share/html.conf
 2bc1cb7b3877f3d8cd2ea7d61bbe5f00 *src/share/latex.conf
