@@ -1,10 +1,10 @@
-34a466faca56f20b560f8a4d04ff0f3d *DESCRIPTION
+4c09152eb2cc344420e17b2f182a79eb *DESCRIPTION
 986a89461d27197890126919f888d9a9 *NAMESPACE
 1582fdc8dfcd01866823ff848d0e78e1 *NEWS
-4001b3b715513277b1adee632164ce4b *R/unrtf.R
+8c15ff93475bd39da65fdb518e01cc74 *R/unrtf.R
 3fd491a2394e901db0d23fe2d30960c4 *man/figures/logo.png
 6b80231f490362d20d34f5c963944aac *man/unrtf.Rd
-505ce4daf424a145ff553c28ee108db2 *src/Makevars
+941705e748a9d822e169aaa2241adc25 *src/Makevars
 4ebafb8c513e5b1d28c91d872eb866ae *src/Makevars.win
 99ea2361fe06bb8cd6ca776b5d9f7776 *src/install.libs.R
 71c2f50895cd184085c9d5fe3a486d17 *src/libunrtf/attr.c
